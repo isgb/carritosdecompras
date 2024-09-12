@@ -7,6 +7,8 @@ import ShoppingCart from './components/ShoppingCart'
 import ShoppingCartProvider from './contexts/ShoppingCartContext'
 
 const App = () => {
+  // https://www.youtube.com/watch?v=15PFRItzs4w 
+  // 23:39 / 37:19
   return (
     <ShoppingCartProvider>
       <Router>
